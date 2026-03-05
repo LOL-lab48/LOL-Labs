@@ -16,6 +16,8 @@ https://lol-lab48.github.io/BytePath-48/
 ### WhatABetterDeal
 A website designed to help users find and compare better deals online.
 
+https://lol-lab48.github.io/WhatABetterDeal/
+
 ### Xcelerate Xtreme Sports
 A website focused on extreme sports content and projects.
 
