@@ -30,7 +30,7 @@ The goal of LOL Labs is to experiment with web development, coding, and creative
 ## Website
 
 Main homepage:
-https://lol-lab48.github.io/
+https://lol-lab48.github.io/LOL-Labs/
 
 ## License
 
