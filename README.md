@@ -5,7 +5,7 @@ Welcome to **LOL Labs** – a collection of creative projects, experiments, and 
 ## 🌐 Homepage
 
 Visit the main LOL Labs website:
-https://lol-lab48.github.io/lol-labs/
+https://lol-lab48.github.io/LOL-Labs/
 
 ## 🚀 Projects
 
