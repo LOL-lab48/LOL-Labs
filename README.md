@@ -1,37 +1,63 @@
 # LOL Labs
 
-Welcome to **LOL Labs**.
+Welcome to **LOL Labs** – a collection of creative projects, experiments, and websites.
 
-LOL Labs is a collection of coding projects, experiments, and websites created and maintained by the developer behind this account.
+## 🌐 Homepage
 
-This repository hosts the **main homepage** that links to all LOL Labs projects.
+Visit the main LOL Labs website:
+https://lol-lab48.github.io/lol-labs/
 
-## Projects
+## 🚀 Projects
 
 ### BytePath-48
-A coding and development website focused on programming projects and experiments.
 
-https://lol-lab48.github.io/BytePath-48/
+A coding and programming learning project focused on helping people explore coding concepts and experiments.
+
+🔗 https://lol-lab48.github.io/BytePath-48/
+
+---
 
 ### WhatABetterDeal
-A website designed to help users find and compare better deals online.
 
-https://lol-lab48.github.io/WhatABetterDeal/
+A simple web tool designed to help compare deals and prices.
+
+🔗 https://lol-lab48.github.io/WhatABetterDeal/
+
+---
 
 ### Xcelerate Xtreme Sports
-A website focused on extreme sports content and projects.
 
-https://lol-lab48.github.io/Xcelerate-Xtreme-Sports/
+A website focused on extreme sports, challenges, and high-energy activities.
 
-## Purpose
+🔗 https://lol-lab48.github.io/Xcelerate-Xtreme-Sports/
 
-The goal of LOL Labs is to experiment with web development, coding, and creative online projects.
+---
 
-## Website
+### Mud Mavericks
 
-Main homepage:
-https://lol-lab48.github.io/LOL-Labs/
+A mud-run and obstacle challenge project built for fun, competition, and adventure.
 
-## License
+🔗 https://lol-lab48.github.io/mud-mavericks/
 
-© 2026 LOL Labs. All rights reserved.
+---
+
+## 🧪 About LOL Labs
+
+LOL Labs is an independent creative space where ideas turn into projects.
+The goal is to build fun, useful, and experimental websites while exploring coding and new technologies.
+
+Projects may include:
+
+* coding experiments
+* web tools
+* games
+* challenge and sports websites
+* creative online projects
+
+---
+
+## 📌 Status
+
+LOL Labs is constantly evolving, with new experiments and projects added over time.
+
+© 2026 LOL Labs
